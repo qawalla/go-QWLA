@@ -1,4 +1,4 @@
-## Go Ethereum
+## QWLA network ( Phax ) 
 
 Official Golang implementation of the Ethereum protocol.
 
