@@ -4,7 +4,7 @@ Tagged releases and develop branch commits are available as installable Debian p
 for Ubuntu. Packages are built for the all Ubuntu versions which are supported by
 Canonical.
 
-Packages of develop branch commits have suffix -unstable and cannot be installed alongside
+Packages of develop branch commits have suffix -unstable and cannot be installed alongside.
 the stable version. Switching between release streams requires user intervention.
 
 ## Launchpad
