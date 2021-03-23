@@ -1,16 +1,10 @@
 ## QWLA network 
 
-Official Golang implementation of the Ethereum protocol.
-
-
-
-
-Automated builds are available for stable releases and the unstable master branch. Binary
-archives are published at https://geth.ethereum.org/downloads/.
+Official QWLA implementation of the Ethereum protocol.
 
 ## Building the source
 
-For prerequisites and detailed build instructions please read the [Installation Instructions](https://geth.ethereum.org/docs/install-and-build/installing-geth).
+For prerequisites and detailed build instructions please read and follow the [Installation Instructions](https://geth.ethereum.org/docs/install-and-build/installing-geth).
 
 Building `QWLA` requires both a Go (version 1.13 or later) and a C compiler. You can install
 them using your favourite package manager. Once the dependencies are installed, run
