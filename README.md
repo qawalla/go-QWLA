@@ -21,7 +21,7 @@ make all
 
 ## Executables
 
-The go-ethereum project comes with several wrappers/executables found in the `cmd`
+The QWLA-ethereum project comes with several wrappers/executables found in the `cmd`
 directory.
 
 |    Command    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
